@@ -1,0 +1,93 @@
+body {
+  display: flex;
+  background-color: hsl(275, 100%, 97%);
+  height: 100vh;
+  justify-content: center;
+}
+.recuadro {
+  background-color: white;
+  height: 450px;
+  width: 460px;
+  position: absolute;
+  margin: 206px 0px;
+  border-radius: 12px;
+}
+.background-pattern-desktop {
+  display: flex;
+  height: 370px;
+  width: 3500px;
+  border: 0px;
+  padding: 0px;
+  margin: 0px 12px;
+}
+.titulo {
+  display: flex;
+  align-items: center;
+}
+.icon-star {
+  margin: 0px 22px 0px 35px;
+  width: 32px;
+  height: 32px;
+}
+.faqs {
+  font-family: "Work Sans", sans-serif;
+  color: hsl(292, 42%, 14%);
+  font-size: 45px;
+}
+.what {
+  display: flex;
+  align-items: center;
+}
+.fronted {
+  font-family: "Work Sans", sans-serif;
+  color: hsl(292, 42%, 14%);
+  font-size: 14px;
+  margin: 0px 22px 0px 35px;
+}
+.icon-minus {
+  width: 26px;
+  height: 26px;
+}
+.mentor {
+  font-size: 12px;
+  font-family: "Work Sans", sans-serif;
+  color: hsl(292, 16%, 49%);
+  font-weight: lighter;
+  margin: 16px 32px 0px 35px;
+  line-height: 1.5;
+}
+.free {
+  display: flex;
+  align-items: center;
+}
+.is {
+  font-family: "Work Sans", sans-serif;
+  color: hsl(292, 42%, 14%);
+  font-size: 14px;
+  margin: 32px 202px 0px 35px;
+}
+.icon-plus {
+  width: 26px;
+  height: 26px;
+  margin: 32px 22px 0px 0px;
+}
+.can {
+  display: flex;
+  align-items: center;
+}
+.use {
+  font-family: "Work Sans", sans-serif;
+  color: hsl(292, 42%, 14%);
+  font-size: 14px;
+  margin: 32px 16px 0px 35px;
+}
+.how {
+  display: flex;
+  align-items: center;
+}
+.get {
+  font-family: "Work Sans", sans-serif;
+  color: hsl(292, 42%, 14%);
+  font-size: 14px;
+  margin: 32px 53px 0px 35px;
+}
